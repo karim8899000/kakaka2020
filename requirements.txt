@@ -1,3 +1,5 @@
+websocket
+websocket-client
 telebot
 pyfiglet
 instaloader
